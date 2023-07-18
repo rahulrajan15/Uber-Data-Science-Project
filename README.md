@@ -1,4 +1,4 @@
-# Uber Data Analytics GCP Project
+# Uber Data Science GCP Project
 
 # Introduction
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, 
