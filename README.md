@@ -1,4 +1,4 @@
-# Uber Data Science GCP Project
+# Ride-hailing services Data Science GCP Project with Uber
 
 # Introduction
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, 
